@@ -1,0 +1,86 @@
+{
+    "id": "polygon",
+    "description": "Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.",
+    "tags": [
+        "pos",
+        "sidechain",
+        "ethereum ecosystem",
+        "layer 2",
+        "eip-1559"
+    ],
+    "coin_details": {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "logo": "logo/polygon.png",
+        "max_supply": "∞"
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "L2"
+        },
+        {
+            "name": "Chain Type",
+            "type": "POS"
+        }
+    ],
+    "official_links": {
+        "website": "https://polygon.technology/",
+        "documentation": "https://docs.polygon.technology/",
+        "github": "https://github.com/maticnetwork/",
+        "forum": "https://forum.matic.network/"
+    },
+    "social_platforms": {
+        "discord": "https://discord.com/invite/Pu2SJa4F4e",
+        "twitter": "https://twitter.com/0xPolygon",
+        "reddit": "https://www.reddit.com/r/maticnetwork/",
+        "community": "https://polygon.technology/community/"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/polygon/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/polygon"
+        }
+    ],
+    "explorers": [
+        {
+            "name": "Polygon Explorer",
+            "url": "https://explorer-mainnet.maticvigil.com/"
+        },
+        {
+            "name": "Polygon Scan",
+            "url": "https://polygonscan.com/"
+        },
+        {
+            "name": "Polygonscan Testnet",
+            "url": "https://polygonscan.com/"
+        }
+    ],
+    "wallets": [
+        {
+            "name": "Polygon Wallet",
+            "url": "https://wallet.polygon.technology/"
+        },
+        {
+            "name": "Metamask (Polygon Network)",
+            "url": "https://metamask.io/"
+        },
+        {
+            "name": "Math Wallet",
+            "url": "https://mathwallet.org/en/"
+        }
+    ]
+}
+
